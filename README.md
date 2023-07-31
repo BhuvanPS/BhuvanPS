@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am a computer science graduate and a passionate mobile developer with a focus on Android and iOS platforms. I love creating user-friendly and performant mobile applications that solve real-world problems.
+
+## 🚀 My Mobile Development Tech Stack
+
+- Languages: Java, Dart (Flutter)
+- Frameworks: Android SDK, iOS SDK, Flutter
+- Tools: Android Studio, Xcode, Visual Studio Code
+- Backend Integration: Firebase
 
 <!--
 **BhuvanPS/BhuvanPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
