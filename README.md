@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1A73E8&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Bhuvan+PS;Machine+Learning+Engineer;AI+Systems+Builder;Data+Engineer;I+build+AI+that+solves+real+problems" />
 </p>
 
-<!-- Wave Banner -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%">
 
 # 👋 Hey there, I'm **Bhuvan PS**
 
