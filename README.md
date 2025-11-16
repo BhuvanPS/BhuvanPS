@@ -1,6 +1,13 @@
-# 👋 Hi, I'm Bhuvan PS
 
-**Machine Learning Engineer | Data Engineer | AI Systems Builder**
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1A73E8&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Bhuvan+PS;Machine+Learning+Engineer;AI+Systems+Builder;Data+Engineer;I+build+AI+that+solves+real+problems" />
+</p>
+
+<!-- Wave Banner -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%">
+
 
 I design and build end-to-end AI systems — from data pipelines to model deployment.  
 My work spans machine learning, deep learning, LLM-based agents, and cloud data engineering.
