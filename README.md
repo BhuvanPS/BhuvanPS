@@ -71,12 +71,11 @@ Fabric, Azure, SQL, data modeling, BI dashboards.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhuvanps"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  bhuvanps
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%">
-</p>
+
 
 ⭐ *If you like my work, feel free to star or follow!*
