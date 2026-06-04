@@ -1,81 +1,72 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1A73E8&size=28&center=true&vCenter=true&width=900&lines=Hi+I'm+Bhuvan+PS;Machine+Learning+Engineer;AI+Systems+Builder;Data+Engineer;I+build+AI+that+solves+real+problems" />
-</p>
+<div align="center">
 
+# Bhuvan Subramani
 
-# 👋 Hey there, I'm **Bhuvan PS**
+`data engineering` · `ai automations` · `microsoft fabric + azure`
 
-I design and build **end-to-end AI systems** — from data pipelines to deployed intelligent agents.  
-Focused on **ML engineering, LLM agents, multimodal AI, and cloud data engineering**.
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+Currently shifting my focus towards **data engineering** and **AI automations** — building pipelines, orchestrating agents, and figuring out how to make data actually useful at scale.
 
-### 🩺 **Guardian Monitor – AI Patient Support System**
-- 📝 Medical Note Summarisation (LLMs)  
-- 📡 Fall Detection + Emotional Health Alerts  
-- 📊 Daily Activity Deviation Tracking  
-- 😊 Emotion Tagging System for Journals  
-**Tech:** Python, TensorFlow, NLP, Node.js, MongoDB
+My background is in data science and ML, but I've realised I enjoy the infrastructure side just as much as the modelling. Right now I'm deep in the Microsoft Fabric + Azure ecosystem, exploring how AI agents can plug into real data workflows — not just as demos, but as things that actually run.
 
-### 🤖 **Multi-Agent AI Pipelines**
-Modular agents for profiling → cleaning → inference → validation.
-
-### ☁️ **Cloud & Data Engineering**
-Fabric, Azure, SQL, data modeling, BI dashboards.
+- 🔧 Getting serious about **data pipelines, Medallion Architecture, and real-time streaming**
+- 🤖 Exploring **AI automations** — multi-agent systems, LLM-powered workflows, Azure OpenAI
+- 📐 Currently building on **Microsoft Fabric · Azure · PySpark · Delta Lake**
+- 🌱 Learning in public — expect rough edges, experiments, and occasional pivots
+- 📍 Based in Melbourne, studying Data Science @ Deakin University
 
 ---
 
-## 🧠 Skills & Tools
+## 🔭 What I'm exploring right now
 
-### 🔧 **Tech Stack**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,azure,fastapi,nodejs,mongodb,git,github,docker,linux,figma,r" />
-</p>
+```text
+Data Engineering    Medallion Architecture · PySpark ETL · Delta Lake
+                    Real-time streaming · Microsoft Fabric · Lakehouse design
 
-### 🧮 **Machine Learning**
-- Classical ML, Deep Learning, Transformers  
-- NLP Summarisation + Emotion Detection  
-- Multimodal pipelines (text + audio + motion)  
+AI Automations      Multi-agent orchestration · Azure OpenAI · RAG pipelines
+                    LLM tool use · Automated workflows · Microsoft Agent Framework
 
-### 🗄️ **Data & Cloud**
-- SQL, ETL, Data Modeling  
-- Azure, Microsoft Fabric  
-- Power BI, Data Pipelines  
+Foundations         dbt · SQL performance · data modelling · pipeline observability
+```
 
 ---
 
-## 🌱 Currently Learning
-- Statistical Distribution Fitting (R)  
-- Advanced Data Engineering in Fabric  
-- Multi-agent orchestration patterns  
+## 🛠 Tools I work with
+
+```text
+Cloud & Platforms   Microsoft Fabric · Azure OpenAI · GCP · Firebase
+Data & Processing   PySpark · Delta Lake · Power BI · SQL · R Shiny
+ML / AI             TensorFlow · PyTorch · RAG · Multi-Agent · NLP
+Languages           Python · R · Dart · JavaScript
+Mobile              Flutter · Google Play
+Other               Docker · Git · API Development
+```
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Things I've built
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhuvanps&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanps&theme=default" />
-</p>
+Projects from my data science background — shifting lens towards the engineering and automation side going forward.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvanps&theme=github-light" />
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [Fitness Coaching AI Platform](https://bhuvanps.github.io/Portfolio/FitnessAgent) | 6-agent coaching system with 40 custom tools, concurrent multi-agent workflows | Azure OpenAI · Agent Framework · Python |
+| [HyperScale Retail Command Center](https://bhuvanps.github.io/Portfolio/Hyperscale/) | Real-time retail analytics with Medallion Architecture, 30-day demand forecasting | MS Fabric · PySpark · Power BI |
+| [Advanced HR Analytics](https://bhuvanps.github.io/Portfolio/HR_Analysis/) | Real-time attrition, pay equity and workforce insights | R Shiny · Plotly · ML |
+| [Bank Loan Performance](https://bhuvanps.github.io/Portfolio/Loan_Analysis_Report/) | $435.8M portfolio monitored across three dashboard tiers | Power BI · DAX |
+| [Liver Cirrhosis Prediction](https://bhuvanps.github.io/Portfolio/prediction/) | Multiclass SVC predicting patient outcomes from clinical data | Python · SVC |
+| [C-Meds: AI Medication Reminder](https://apkpure.com/cmeds-ai-meds-pill-reminder/curowebs.in.cmeds3) | AI prescription scanner, live on Google Play | Flutter · Firebase |
 
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhuvanps"><img height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  bhuvanps
-</p>
+→ **[Full portfolio](https://bhuvanps.github.io/Portfolio/)**
 
 ---
 
 
+## 📫 Get in touch
 
-⭐ *If you like my work, feel free to star or follow!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhuvan--ps-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-ps)
+[![Email](https://img.shields.io/badge/Email-psbhuvan2002@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:psbhuvan2002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhuvanps.github.io-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://bhuvanps.github.io/Portfolio/)
