@@ -1,8 +1,8 @@
 <div align="center">
 
-# Bhuvan Subramani
+# Bhuvan PS
 
-`data engineering` · `ai automations` · `microsoft fabric + azure`
+`Data Engineering` · `AI Automations` · `Microsoft Fabric + Azure`
 
 </div>
 
